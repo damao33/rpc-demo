@@ -1,0 +1,2 @@
+kyro=demo.damao.serialize.kyro.KryoSerializer
+protostuff=demo.damao.serialize.protostuff.ProtostuffSerializer
